@@ -1,0 +1,6 @@
+credentials.us-west-1.env
+credentials.us-east-1.env
+.terraform
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
